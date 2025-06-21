@@ -5,7 +5,7 @@ This project aims to analyze and visualize sales data from a fictional Superstor
 Retail businesses like Superstore deal with tons of transactional data, but unlocking insights from that data can be a little tricky without a structured approach. Many companies have historical sales records, but they often find it difficult to spot trends, identify best-selling products or regions, and measure how discounts affect their bottom line. Without a centralized performance dashboard, making the best decisions about pricing, inventory, and marketing can be difficult. That's where this project comes in! I used SQL to organize and explore the data, and with Power BI, I created interactive dashboards that provide clear, actionable insights to help drive smart decisions.
 
 ## Dataset
-Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 Size: ~9,400 rows
 
 ## Project Goals  
