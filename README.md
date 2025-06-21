@@ -33,11 +33,12 @@ Size: ~9,400 rows
 - Tree Map: Contribution by category and sub-category
 - Interactive Slicers: Filter by year/month, region, category
 
+## Conclusion  
+Structured analysis reveals the importance of optimizing discount strategies and focusing on high-yield product segments. The dashboard enables clear and actionable insights to support business decisions.  
+
 ## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/0bbc1129-c087-4198-9eab-4adbbfdb5bb6)
 
-## Conclusion  
-Structured analysis reveals the importance of optimizing discount strategies and focusing on high-yield product segments. The dashboard enables clear and actionable insights to support business decisions.
-
 If you have any suggestions or feedback, please don't hesitate to contact me in direct message on LinkedIn and Email: mfkriazh57@gmail.com and http://www.linkedin.com/in/muhammad-fakhri-azhar  
+
 #DataAnalysis #PowerBI #SQL #DashboardDesign #BusinessIntelligence #RetailAnalytics #PortfolioProject
